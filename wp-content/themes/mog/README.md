@@ -3,7 +3,7 @@
 On [WordPress.org][l1], or preview at [wp-themes.com][l2] (May be outdated).
 
 A simple, clean and minimalist 1 column WordPress theme.
-Build on top of _s and inspired  by [Manifest](http://themes.jimbarraud.com/manifest/).
+Build on top of _s and inspired  by [Manifest](https://themes.jimbarraud.com/manifest/).
 
 ![Screenshot](screenshot.png)
 
@@ -16,5 +16,5 @@ This is my first WordPress theme. Still struggling around with the structure of 
 GPL
 
 [jekyll]: https://github.com/yihangho/mog-jekyll-port
-[l1]: http://wordpress.org/themes/mog
-[l2]: http://wp-themes.com/mog/
+[l1]: https://wordpress.org/themes/mog
+[l2]: https://wp-themes.com/mog/

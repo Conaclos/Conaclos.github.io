@@ -2,7 +2,7 @@
 Theme Name: Mog
 Theme URI: https://github.com/hdra/WP_Mog
 Author: Hendra
-Author URI: http://hndr.me
+Author URI: https://hndr.me
 Description: A simple, clean and minimalist 1 column WordPress theme.
 Version: 1.1.10
 License: GNU General Public License
@@ -10,9 +10,9 @@ License URI: license.txt
 Tags: white, gray, light, silver, one-column, fixed-width
 
 Resetting and rebuilding styles have been helped along thanks to the fine work of
-Eric Meyer http://meyerweb.com/eric/tools/css/reset/index.html
-along with Nicolas Gallagher and Jonathan Neal http://necolas.github.com/normalize.css/
-and Blueprint http://www.blueprintcss.org/
+Eric Meyer https://meyerweb.com/eric/tools/css/reset/index.html
+along with Nicolas Gallagher and Jonathan Neal https://necolas.github.com/normalize.css/
+and Blueprint https://www.blueprintcss.org/
 */
 
 
@@ -38,7 +38,7 @@ table, caption, tbody, tfoot, thead, tr, th, td {
 	vertical-align: baseline;
 }
 html {
-	font-size: 62.5%; /* Corrects text resizing oddly in IE6/7 when body font-size is set using em units http://clagnut.com/blog/348/#c790 */
+	font-size: 62.5%; /* Corrects text resizing oddly in IE6/7 when body font-size is set using em units https://clagnut.com/blog/348/#c790 */
 	overflow-y: scroll; /* Keeps page centred in all browsers regardless of content height */
 	-webkit-text-size-adjust: 100%; /* Prevents iOS text size adjust after orientation change, without disabling user zoom */
 	-ms-text-size-adjust: 100%; /* www.456bereastreet.com/archive/201012/controlling_text_size_in_safari_for_ios_without_disabling_user_zoom/ */
